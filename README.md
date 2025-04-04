@@ -24,21 +24,21 @@ Retailers often set prices based on instinct, not insight — missing how compet
 ### 1. **Sales & Profit Performance Dashboard**  
 Visualizes revenue trends, KPIs (units sold, profit, revenue), and total profit by category.
 
-![Sales Overview](dashboards/Screenshot%20(296).png)
+![Sales Overview](dashboards/sales_profit.png)
 
 ---
 
 ### 2. **Freight Impact & Competitor Pricing Sensitivity**  
 Shows profit vs freight cost, freight % of revenue, and competitor price impact.
 
-![Freight Impact & Competitor Analysis](dashboards/Screenshot%20(295).png)
+![Freight Impact & Competitor Analysis](dashboards/freight_impact.png)
 
 ---
 
 ### 3. **XGBoost Model Output – Actual vs Predicted Sales**  
 Visualizes model accuracy for predicting demand based on price & competitor data.
 
-![XGBoost Output](dashboards/output.png)
+![XGBoost Output](dashboards/xgboost_output.png)
 
 ---
 
@@ -70,7 +70,7 @@ Visualizes model accuracy for predicting demand based on price & competitor data
 | `data/`                        | Raw and cleaned datasets                         |
 | `notebooks/`                   | Jupyter notebook with modeling code              |
 | `dashboards/`                  | Dashboard screenshots                            |
-| `reports/`                     | Final documentation report in Word               |
+| `report/`                      | Final documentation report in Word               |
 | `README.md`                    | This file                                        |
 
 ---
