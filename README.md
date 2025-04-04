@@ -21,7 +21,7 @@ Retailers often set prices based on instinct, not insight — missing how compet
 
 ## 📈 Visual Examples
 
-### 1. **Sales & Profit Performance Dashboard**  
+### 1. **Sales & Profit Performance Dashboard**
 Visualizes revenue trends, KPIs (units sold, profit, revenue), and total profit by category.
 
 ![Sales Overview](dashboards/sales_profit.png)
