@@ -21,14 +21,14 @@ Retailers often set prices based on instinct, not insight — missing how compet
 
 ## 📈 Visual Examples
 
-### 1. **Sales & Profit Performance Dashboard**
+### 1. **Sales & Profit Performance Dashboard - [Link](https://public.tableau.com/app/profile/vedant.shinde2971/viz/price_optimization_tableau/RetailPerformanceOverviewRevenueProfitCategoryTrends?publish=yes)**
 Visualizes revenue trends, KPIs (units sold, profit, revenue), and total profit by category.
 
 ![Sales Overview](dashboards/sales_profit.png)
 
 ---
 
-### 2. **Freight Impact & Competitor Pricing Sensitivity**  
+### 2. **Freight Impact & Competitor Pricing Sensitivity - [Link](https://public.tableau.com/app/profile/vedant.shinde2971/viz/price_optimization_tableau/FreightImpactProfitLeakage?publish=yes)**  
 Shows profit vs freight cost, freight % of revenue, and competitor price impact.
 
 ![Freight Impact & Competitor Analysis](dashboards/freight_impact.png)
