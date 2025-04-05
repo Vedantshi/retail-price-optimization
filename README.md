@@ -78,7 +78,7 @@ Visualizes model accuracy for predicting demand based on price & competitor data
 ## 📄 Full Report
 
 Full details and analysis are included in:  
-[`Final_Retail_Pricing_Optimization_Project.docx`](reports/Final_Retail_Pricing_Optimization_Project.docx)
+[`Final_Retail_Pricing_Optimization_Project.docx`](report/Final_Retail_Pricing_Optimization_Project.docx)
 
 ---
 
